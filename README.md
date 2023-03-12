@@ -2,7 +2,7 @@
 
 [arXiv](https://arxiv.org/abs/???) | [PDF](https://arxiv.org/pdf/???.pdf)
 
-[Hadas Orgad](https://www.linkedin.com/in/hadas-orgad/)<sup>*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>*</sup>, [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
+[Hadas Orgad](https://www.linkedin.com/in/hadas-orgad/)<sup>\*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>\*</sup>, [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
 <sup>*</sup> Equal Contribution.
 
 We introduce TIME (Text-to-Image Model Editing), a method for editing implicit assumptions in text-to-image diffusion models.
@@ -37,7 +37,7 @@ python apply_time.py --with_to_k --with_augs --train_func train_closed_form --la
     title={Editing Implicit Assumptions in Text-to-Image Diffusion Models},
     author={Orgad, Hadas and Kawar, Bahjat and Belinkov, Yonatan},
     journal={arXiv:2303.?????},
-    year={2020}
+    year={2023}
 }
 ```
 
