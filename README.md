@@ -2,7 +2,7 @@
 
 [arXiv](https://arxiv.org/abs/???) | [PDF](https://arxiv.org/pdf/???.pdf)
 
-[Hadas Orgad](https://www.linkedin.com/in/hadas-orgad/)<sup>\*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>\*</sup>, [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
+[Hadas Orgad](https://www.linkedin.com/in/hadas-orgad/)<sup>\*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>\*</sup>, and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
 <sup>*</sup> Equal Contribution.
 
 We introduce TIME (Text-to-Image Model Editing), a method for editing implicit assumptions in text-to-image diffusion models.
