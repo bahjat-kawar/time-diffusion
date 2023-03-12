@@ -18,7 +18,7 @@ from test_set_parser import test_set, populate_test_set
     num_seeds - number of seeds to generate for each prompt;
     begin_idx - index to begin from (inclusive) in dataset;
     end_idx - index to end on (exclusive) in dataset;
-    dataset - csv filename of dataset, defaults to ""TIMED_test_set_filtered_SD14.csv;
+    dataset - csv filename of dataset, defaults to "TIMED_test_set_filtered_SD14.csv";
     **train_kwargs - rest of command line args for train function [optional];
 
 example run:
