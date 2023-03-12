@@ -9,6 +9,12 @@ We introduce TIME (Text-to-Image Model Editing), a method for editing implicit a
 
 <img src="assets/time-headline.png" alt="ddrm-overview" style="width:800px;"/>
 
+## Dependencies Setup
+
+This repo was tested with PyTorch 1.13.1, CUDA 11.6.2, Numpy 1.23.4, and Diffusers 0.9.0.
+
+An example environment is given in `environment.yml`.
+
 ## Running the Experiments
 
 The general command to apply TIME and see results:
