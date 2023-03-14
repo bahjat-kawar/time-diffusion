@@ -228,7 +228,7 @@ for curr_item in test_set:
         if train_func == "baseline": run_and_save(curr_item["new"], save_dir, train_f_name, "base", base_prmpt, seed_)
         for positive_item in curr_item["positives"]:
             run_and_save(positive_item["test"], save_dir, train_f_name, "positives", base_prmpt, seed_)
-            if train_func == "baseline": run_and_save(positive_item["gt"], save_dir, train_f_name, "positives", base_prmpt, seed_)
+            if train_func == "baseline" and positive_item["gt"] is not None: run_and_save(positive_item["gt"], save_dir, train_f_name, "positives", base_prmpt, seed_)
         for negative_item in curr_item["negatives"]:
             run_and_save(negative_item["test"], save_dir, train_f_name, "negatives", base_prmpt, seed_)
-            if train_func == "baseline": run_and_save(negative_item["gt"], save_dir, train_f_name, "negatives", base_prmpt, seed_)
+            if train_func == "baseline" and negative_item["gt"] is not None: run_and_save(negative_item["gt"], save_dir, train_f_name, "negatives", base_prmpt, seed_)
