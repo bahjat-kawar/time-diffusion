@@ -7,7 +7,7 @@
 
 We introduce TIME (Text-to-Image Model Editing), a method for editing implicit assumptions in text-to-image diffusion models.
 
-<img src="assets/time-headline.png" alt="ddrm-overview" style="width:800px;"/>
+<img src="assets/time-headline.png" alt="time-overview" style="width:800px;"/>
 
 ## Dependencies Setup
 
