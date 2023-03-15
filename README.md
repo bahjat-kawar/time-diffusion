@@ -1,6 +1,6 @@
 # Editing Implicit Assumptions in Text-to-Image Diffusion Models
 
-[arXiv](https://arxiv.org/abs/2303.08084) | [PDF](https://time-diffusion.github.io/TIME_paper.pdf) | [Website](https://time-diffusion.github.io/)
+[arXiv](https://arxiv.org/abs/2303.08084) | [PDF](https://time-diffusion.github.io/TIME_paper.pdf) | [Website](https://time-diffusion.github.io/) | [Gradio Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)
 
 [Hadas Orgad](https://orgadhadas.github.io/)<sup>\*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>\*</sup>, and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
 <sup>*</sup> Equal Contribution.
@@ -8,6 +8,8 @@
 We introduce TIME (Text-to-Image Model Editing), a method for editing implicit assumptions in text-to-image diffusion models.
 
 <img src="assets/time-headline.png" alt="time-overview" style="width:800px;"/>
+
+<b>New:</b> Check out the [Gradio demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion) and edit text-to-image models from your browser!
 
 ## Dependencies Setup
 
