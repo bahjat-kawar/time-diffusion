@@ -1,6 +1,6 @@
 # Editing Implicit Assumptions in Text-to-Image Diffusion Models
 
-[arXiv](https://arxiv.org/abs/???) | [PDF](https://time-diffusion.github.io/TIME_paper.pdf) | [Website](https://time-diffusion.github.io/)
+[arXiv](https://arxiv.org/abs/2303.08084) | [PDF](https://time-diffusion.github.io/TIME_paper.pdf) | [Website](https://time-diffusion.github.io/)
 
 [Hadas Orgad](https://orgadhadas.github.io/)<sup>\*</sup>, [Bahjat Kawar](https://bahjat-kawar.github.io/)<sup>\*</sup>, and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), Technion.<br />
 <sup>*</sup> Equal Contribution.
@@ -42,7 +42,7 @@ python apply_time.py --with_to_k --with_augs --train_func train_closed_form --la
 @article{orgad2023editing,
     title={Editing Implicit Assumptions in Text-to-Image Diffusion Models},
     author={Orgad, Hadas and Kawar, Bahjat and Belinkov, Yonatan},
-    journal={arXiv:2303.?????},
+    journal={arXiv:2303.08084},
     year={2023}
 }
 ```
